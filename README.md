@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Hsieh</h1>
-<h3 align="center">A passionate Computer Science student from Texas</h3>
+<h3 align="center">A passionate Computer Science student from Houston, Texas</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phatlynx&label=Profile%20views&color=0e75b6&style=flat" alt="phatlynx" /> </p>
 
